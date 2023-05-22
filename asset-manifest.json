@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test_task-card_tweets/static/css/main.5e91a367.css",
+    "main.js": "/test_task-card_tweets/static/js/main.f237a97a.js",
+    "index.html": "/test_task-card_tweets/index.html",
+    "main.5e91a367.css.map": "/test_task-card_tweets/static/css/main.5e91a367.css.map",
+    "main.f237a97a.js.map": "/test_task-card_tweets/static/js/main.f237a97a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e91a367.css",
+    "static/js/main.f237a97a.js"
+  ]
+}
